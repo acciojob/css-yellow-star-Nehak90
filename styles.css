@@ -1,6 +1,5 @@
 /*  your css code here. If applicable */
-.checked{
+.star{
 	color:yellow;
-	height:300px;
-	width:300px;
+	font-size:600px;
 }
